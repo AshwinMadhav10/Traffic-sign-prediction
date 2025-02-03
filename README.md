@@ -1,5 +1,9 @@
 # Traffic Sign Detection with YOLOv8
 
+![Uploading Screenshot (2).png…]()
+
+
+
 ## Overview
 This project implements real-time traffic sign detection using the YOLOv8 object detection model. The model is trained on a custom dataset and deployed for live webcam detection.
 
