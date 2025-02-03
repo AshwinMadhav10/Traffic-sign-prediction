@@ -61,7 +61,7 @@ zip -r my_model.zip my_model
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-Your Name
+Ashwin Madhav A
 
 ## Acknowledgments
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
